@@ -4,8 +4,8 @@
   <h3>Aspiring Professional Penetration Tester | Ethical Hacker</h3>
 
   <p>
-    Passionate about finding vulnerabilities and securing systems. 
-    Currently focused on Web Application Security, Active Directory Attacks, and Red Teaming.
+    Passionate about discovering vulnerabilities and strengthening digital defenses.<br>
+    Currently focused on becoming a skilled Penetration Tester with expertise in Web Security, Active Directory, and Red Teaming.
   </p>
 
   <a href="https://linkedin.com/in/motasim-billah-boss" target="_blank">
@@ -25,48 +25,51 @@
 
 **Fundamentals**  
 - Computer Networking • Linux • Windows (100%)  
-- Nmap • Wireshark • Nessus • OSINT  
+- Nmap • Wireshark • Nessus • OSINT • Information Gathering  
 
-**Exploitation Tools**  
-- Metasploit • msfvenom • Hydra • John the Ripper  
+**Exploitation & Tools**  
+- Metasploit Framework • msfvenom • Hydra • John the Ripper  
 - Burp Suite • SQLMap • Gobuster • FFUF  
 
 **Programming & Scripting**  
-- Python + C • Bash • JavaScript (Advanced) • SQL  
+- Python (Intermediate+) • C • Bash Scripting • JavaScript (Advanced) • SQL  
 
 **Security Domains**  
 - Web Application Penetration Testing  
 - System Hacking & Privilege Escalation  
 - Social Engineering  
 - Malware Fundamentals  
-- DoS/DDoS Analysis  
+- DoS / DDoS Analysis  
 
-**Currently Mastering**  
+**Currently Learning & Mastering**  
 - Advanced Web Exploitation (OWASP Top 10)  
-- Active Directory Attacks  
-- Post-Exploitation & Lateral Movement  
-- Professional Report Writing  
+- Active Directory Attacks & Lateral Movement  
+- Post-Exploitation Techniques  
+- Professional Report Writing & Methodology  
 
 ---
 
-### 📂 My Repositories
+### 📂 Featured Repositories
 
-- **[writeups](https://github.com/motasimbillah628/writeups)** — HTB, TryHackMe, VulnHub, Proving Grounds  
-- **[web-pentesting](https://github.com/motasimbillah628/web-pentesting)** — PortSwigger Labs + Custom Scripts  
-- **[active-directory](https://github.com/motasimbillah628/active-directory)** — AD Attack Techniques & Notes  
-- **[scripts](https://github.com/motasimbillah628/scripts)** — Custom Python & Bash Pentesting Tools  
-- **[reports](https://github.com/motasimbillah628/reports)** — Professional Pentest Reports (Anonymized)
+> 🔨 Repositories are being actively built. New writeups and tools will be added regularly.
+
+- **[writeups](https://github.com/motasimbillah628/writeups)** — Detailed machine writeups (HTB, TryHackMe, VulnHub)
+- **[web-pentesting](https://github.com/motasimbillah628/web-pentesting)** — PortSwigger Academy labs & custom web exploits
+- **[scripts](https://github.com/motasimbillah628/scripts)** — Custom Python & Bash scripts for reconnaissance and automation
+- **[active-directory](https://github.com/motasimbillah628/active-directory)** — AD enumeration, attacks & notes (In Progress)
+- **[reports](https://github.com/motasimbillah628/reports)** — Sample professional penetration test reports
 
 ---
 
-### 🎯 Current Roadmap
+### 🎯 Learning Roadmap
 
-- [x] Fundamentals & Basic Tools  
-- [x] Recon, Scanning & Exploitation Basics  
+- [x] IT Fundamentals & Networking  
+- [x] Reconnaissance, Scanning & Basic Exploitation  
 - [ ] Advanced Web Application Security  
-- [ ] Active Directory & Internal Network Attacks  
-- [ ] Professional Reporting & Methodology  
-- [ ] HTB CPTS / PNPT Preparation  
+- [ ] Active Directory Penetration Testing  
+- [ ] Post-Exploitation & Privilege Escalation  
+- [ ] Professional Reporting & Client Communication  
+- [ ] HTB CPTS / PNPT / OSCP Preparation  
 
 ---
 
@@ -76,8 +79,9 @@
 - **X (Twitter)**: [@Motasim14365356](https://twitter.com/Motasim14365356)  
 - **Email**: motasimno1@gmail.com  
 
+---
+
 **"Breaking systems responsibly to make them stronger."**
 
 ---
-
-<!-- Proudly built for Offensive Security -->
+*Aspiring Penetration Tester | Building skills one exploit at a time*
